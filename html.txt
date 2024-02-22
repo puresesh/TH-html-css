@@ -1,0 +1,26 @@
+<body>
+    
+    <pre class="fixpre" style="z-index:3;"><a style="color:rgba(157,75,251,0.95)">
+___________.__       .__              __  .__        __            
+\_   _____/|__| _____|  |__   _______/  |_|__| ____ |  | __  ______
+ |    __)  |  |/  ___/  |  \ /  ___/\   __\  |/ ___\|  |/ / /  ___/
+ |     \   |  |\___ \|   Y  \\___ \  |  | |  \  \___|    <  \___ \ 
+ \___  /   |__/____  >___|  /____  > |__| |__|\___  >__|_ \/____  >
+     \/            \/     \/     \/               \/     \/     \/ </a>
+                                                                   
+       =========================[†]=========================       
+                                                                   
+                  <a style="color:rgba(157,75,251,0.95)">Es fehlt an Nichts, bis auf Zeit.</a>                
+                                                                   
+                <a href="https://toyhou.se/12379840.nigel" style="color:rgba(157,75,251,0.95)">nigel</a> | my main sona                               
+             <a href="https://toyhou.se/amera/comments" style="color:rgba(157,75,251,0.95)">comments</a> | profile comments                           
+           <a href="https://toyhou.se/amera/characters" style="color:rgba(157,75,251,0.95)">characters</a> | sonas / OCs                                                   
+              <a href="https://toyhou.se/~messages/create/amera" style="color:rgba(157,75,251,0.95)">message</a> | DM me c:                                   
+              <a href="https://nudle.ltd" style="color:rgba(157,75,251,0.95)">website</a> | wanna find out more?                       
+                                                                   
+       =========================[†]=========================       
+</pre>
+    <div class="noise test bleed" style="opacity:20%;">
+    </div>
+    
+</body>
