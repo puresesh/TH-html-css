@@ -1,0 +1,336 @@
+<!--==========================================
+
+    [01] BOXED IN by TOGO
+    
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+    anything you need to edit should be
+    tabbed and clearly marked - i've also
+    added comments for light code edits you 
+    may want to do. feel free to change
+    any elements to your needs!
+    -- -- -- -- -- -- -- -- -- -- -- -- -- --
+    this code has a custom accent colour;
+    the easiest way to change it is to 
+    mark the colour code below, and 
+    then use ctrl+f to find and replace
+    all instances of it in the code.
+    
+    accent : 
+        
+        #ce5753
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- --
+    
+    > do not use with WYSIWYG on, it will
+      break the code.
+    > keep my credit in.
+    > direct any questions to my comments,
+      PMs or discord. thank you!
+
+===========================================-->
+
+<!-- MAIN CONTAINER =======================-->
+
+<div class="p-3 p-lg-0 my-lg-5 mx-auto" style="max-width: 900px;">
+  
+<!-- NAME + LINKS CARD =======================
+
+    you'll need to add the links to your
+    toyhou.se user, folder, image gallery
+    and the character's comments yourself -
+    the favorite button will work 
+    automatically
+
+===========================================-->
+
+<div class="card mb-3 py-2 px-3 rounded-0" style="box-shadow: -5px 5px 0 rgba(0,0,0,.1);">
+<div class="row align-items-center text-center" style="font-family: 'Courier New', monospace;">
+<div class="col mb-1 mb-md-0 text-md-left font-italic">
+<span class="d-none d-lg-inline">
+  
+    <a href="https://toyhou.se/amera" style="color: #ce5753;">
+      Fishsticks
+    </a> > 
+    
+    <a href="https://toyhou.se/amera/characters" style="color: #ce5753;">
+      My OC's
+    </a> > 
+    
+</span><span style="font-size: 18px; letter-spacing: 1px;">
+  
+    [Nigel]
+    
+</span>
+</div>
+<div class="col-md-auto flex-row justify-content-center align-items-center">
+[
+    
+    <a href="https://toyhou.se/12379840.nigel/gallery" class="mx-2" style="text-decoration: none; color: #ce5753;">gallery</a>
+
+/
+<a class="mx-2" data-toggle="th-favorite" href="#" style="color: #ce5753;">
+<span class="favorite">favorite</span>
+<span class="unfavorite">unfavorite</span>
+</a>
+/
+    <a href="https://toyhou.se/12379840.nigel/comments" class="mx-2" style="text-decoration: none; color: #ce5753;">comment</a>
+]
+
+</div>
+</div>
+</div>
+<div class="row no-gutters">
+<div class="col-lg-auto flex-column">
+<div class="row no-gutters justify-content-center mb-4">
+<div class="col-auto col-lg">
+
+<!-- MUSIC PLAYER =========================-->
+
+<div class="flex-column justify-content-end align-items-center" style="position: relative; height: 218px; width: 50px; overflow: hidden;">
+<div class="d-flex justify-content-center align-items-center" style="height: 172px; width: 50px; overflow: hidden;">
+<div class="flex-column justify-content-center p-2" style="height: 66px; min-width: 172px; max-width: 172px; transform: rotate(-90deg); transform-origin: bottom left;">
+<p class="text-truncate text-monospace text-uppercase mb-0" style="letter-spacing: 1px;">
+    
+    Blei
+
+</p>
+<p class="text-truncate small">
+    
+    Kontra K
+
+</p>
+</div>
+</div>
+<i class="fad fa-compact-disc fa-spin my-2" style="font-size: 32px; color: #ce5753;"></i>
+<div style="position: absolute; top: -40px; opacity: .001;">
+    
+    <iframe src="https://www.youtube.com/embed/yBUeGK9k3HM?controls=0" width="300" height="418" frameborder="0"></iframe>
+    <!-- youtube embed. replace 'QbFMpe8pnFc' with your own youtube ID, keep ?controls=0 at the end -->
+
+</div>
+</div>
+</div>
+<div class="col-auto pl-3">
+  
+<!-- ICON =================================-->
+
+<div class="card p-2 rounded-0" style="box-shadow: -5px 5px 0 rgba(0,0,0,.1);">
+    
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d4ef637c-bd31-436d-b28f-77a05f205722/dfwy1fi-1b34dafa-63b9-4128-bff0-a6ec4b21b5be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q0ZWY2MzdjLWJkMzEtNDM2ZC1iMjhmLTc3YTA1ZjIwNTcyMlwvZGZ3eTFmaS0xYjM0ZGFmYS02M2I5LTQxMjgtYmZmMC1hNmVjNGIyMWI1YmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NfsCBXYEjoydgEChi2W3tKm4qXT1Nh72pWoIJVvdySo" style="height: 200px; width: 200px; object-fit: cover; object-position: center;">
+
+</div>
+</div>
+</div>
+<div class="card flex-grow-1 pb-1 pl-1 border-right-0 border-top-0 rounded-0">
+<div class="card flex-grow-1 pb-3 pl-3 font-italic text-right border-right-0 border-top-0 rounded-0" style="font-family: 'Courier New', monospace;">
+  
+<!-- FIELDS ==================================
+
+  > you can copy + paste more of these,
+    the other columns will grow with
+    the fields
+    
+  > feel free to change the icons and 
+    content to your needs
+  
+===========================================-->
+  
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-signature" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    Nigel
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-birthday-cake" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    early 30th.
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+
+    <i class="fal fa-venus-mars" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    male
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-comments-alt" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    he/ him
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-heart" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    ???
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-paw" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    big cat
+
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-globe" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    barking dogs don't bite.
+
+</div>
+</div>
+<hr class="w-100 my-2">
+<!--=======================================-->
+<div class="row no-gutters">
+<div class="col-auto pr-3 text-center">
+    
+    <i class="fal fa-ruler" style="width: 20px; color: #ce5753;"></i>
+
+</div>
+<div class="col">
+    
+    1,68m
+
+</div>
+</div>
+<!--=======================================-->
+</div>
+</div>
+</div>
+<div class="col-lg flex-column py-3 py-lg-0 px-lg-4">
+  
+<!-- MIDDLE IMAGE =========================-->
+  
+<div class="card flex-grow-1 p-2 rounded-0" style="box-shadow: -5px 5px 0 rgba(0,0,0,.1);">
+<div class="h-100" style="min-height: 300px; 
+
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d4ef637c-bd31-436d-b28f-77a05f205722/dfwy0rs-d3f89437-3d6b-44ea-9220-4844efcb85ad.png/v1/fill/w_747,h_1070,q_70,strp/nezucomm3_by_sobainu_df5o4sv1111112222333_by_kinokonezu_dfwy0rs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MSIsInBhdGgiOiJcL2ZcL2Q0ZWY2MzdjLWJkMzEtNDM2ZC1iMjhmLTc3YTA1ZjIwNTcyMlwvZGZ3eTBycy1kM2Y4OTQzNy0zZDZiLTQ0ZWEtOTIyMC00ODQ0ZWZjYjg1YWQucG5nIiwid2lkdGgiOiI8PTEwOTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zkp15V0tRoDTRGCgABqtXHPjF25fmrL2_SJYW2ptLDI); 
+    
+background-size: cover; background-position: top center;"></div>
+</div>
+</div>
+<div class="col-lg d-block d-lg-flex flex-column">
+  
+<!-- QUOTE ================================-->
+  
+<p class="my-2 text-uppercase" style="font-family: 'Courier New', monospace; font-size: 16px; letter-spacing: 1px; color: #ce5753;">
+    
+    "You can't get into a shoot-out with a knife."
+
+</p>
+
+<!-- TEXT BLOCK ===========================-->
+
+<div class="mr-n3 mb-3 pr-3" style="flex: 1 1 0; min-height: 200px; overflow-y: auto;">
+  
+    <p>
+      Nigel was born into a world where he was never truly wanted. His parents had hoped for a different child, his brother, always letting Nigel know that he was not the son they wanted. But Nigel was always the black sheep, the one who never quite fit in.
+    </p>
+    
+    <p>
+      Growing up, Nigel was always compared to his older brother Jonathan, who seemed to excel at everything he did. Nigel, on the other hand, was seen as rough around the edges, with a tough exterior that made him seem unapproachable. But beneath the hardened exterior, Nigel was a kind and gentle soul, with a heart of gold.
+    </p>
+    
+    <p> Nigel may have never felt wanted by his parents, but he knew that he was loved by those who truly mattered. And in the end, that was all that really mattered to him.
+    </p>
+    
+</div>
+
+<!-- TAGS ====================================
+
+  > these are not functional tags, they will 
+    not link to anything. they're just for
+    decoration
+  
+  > copy + paste as many as you want ! if you 
+    add too many the text block above may 
+    get really small, so don't go too crazy
+
+===========================================-->
+
+<div class="d-flex m-n1 text-center font-italic text-white" style="flex-wrap: wrap; font-family: 'Courier New', monospace; font-size: 12px; letter-spacing: 1px;">
+<!--=======================================-->
+<div class="card flex-grow-1 m-1 py-1 px-2 rounded-0" style="box-shadow: -4px 4px 0 rgba(0,0,0,.1); background-color: #ce5753;">
+    
+    #asshole with a gun.!
+
+</div>
+<!--=======================================-->
+<div class="card flex-grow-1 m-1 py-1 px-2 rounded-0" style="box-shadow: -4px 4px 0 rgba(0,0,0,.1); background-color: #ce5753;">
+    
+    #likes to beat up others.
+
+</div>
+<!--=======================================-->
+<div class="card flex-grow-1 m-1 py-1 px-2 rounded-0" style="box-shadow: -4px 4px 0 rgba(0,0,0,.1); background-color: #ce5753;">
+    
+    # Jonathan's little brother.
+
+</div>
+<!--=======================================-->
+</div>
+</div>
+
+<!-- CREDIT ===============================-->
+
+<div class="col-auto d-none d-lg-flex flex-column align-items-center pl-3">
+<div class="card mb-2 pl-1 rounded-0" style="flex-grow: 1; border-width: 0 1px;"></div>
+<a href="https://toyhou.se/Togo" style="color: #ce5753;">
+<i class="fal fa-code"></i>
+</a>
+</div>
+</div>
+</div>
