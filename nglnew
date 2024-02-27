@@ -1,0 +1,203 @@
+<!-- 01. TRAFFIC JAM by lil_is_dum
+
+    accents:
+
+    #dfc722 - accent colour + accent text
+    #a678ef
+    #2d2d2d - background
+    #393939
+    #ffffff - text
+   
+   highlight the hex code and press ctrl (cmd if you're on mac) + f to find and replace the colours!
+   
+   don't resell and don't remove credits, aside from that do whatever! :3
+   
+-->
+
+<div class="container" style="max-width: 1000px;">
+
+<div class="card col-12 p-3 rounded-0" style="background-color: #2d2d2d; background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/23293513_ASgnyesqQZ6QZ4Y.png); border-color: #a678ef; color: #ffffff; border-width: 6px; font-family: ms pgothic; text-shadow: 2px 2px 0px black; box-shadow: 7px 7px 0px black; transform: rotate(2deg);">
+    
+    <div class="row no-gutters" style="transform: rotate(-2deg);">
+        
+        <!-- replace URLHERE with the url to your image! -->
+        
+        <div class="card col-3 p-3 rounded-0" style="height: 200px; width: 200px; background-color: #2d2d2d; border-color: #a678ef; color: #ffffff; border-width: 6px; box-shadow: 4px 4px 0px black;
+        
+        background-image: url(URLHERE);
+        
+        background-size: cover;
+        
+        background-position: center;">
+        
+        </div> 
+        
+        
+        
+        <!-- QUOTE - keep this short! -->
+        
+        <div class="card col-9 p-3 rounded-0 text-right mt-4 text-uppercase" style="max-height: 130px; background-color: #a678ef; border-color: #a678ef; color: #ffffff; border-width: 6px; text-shadow: 2px 2px 0px black; font-size: 1.7em; overflow-y: hidden; box-shadow: 4px 4px 0px black;">
+        
+        <span><i class="fa-thin fa-square-quote pull-left mt-n2" style="font-size: 2em"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+        
+        </div>
+        
+        
+    
+    </div>
+    
+    <div class="row no-gutters" style="transform: rotate(-2deg);">
+        
+        <div class="card col-4 rounded-0 m-3 p-3 text-justify" style="background-color: #2d2d2d; border-color: #a678ef; color: #ffffff; border-width: 6px; max-height: 418px; overflow-y: auto; box-shadow: 4px 4px 0px black;">
+            
+            
+            
+            <!-- ABOUT -->
+            
+            <p>
+            
+            <a style="color: #a678ef; font-weight: 700; text-shadow: 2px 2px 4px black;">Highlighted sentence!</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+            
+            </p>
+            
+            <p>
+                
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+                
+            </p>
+            
+            
+            
+        </div>
+        
+        <div class="card col-3 rounded-0 border-0" style="background-color: rgba(0,0,0,0)">
+        
+            <div class="card rounded-0 mt-3 pt-3 text-justify" style="background-color: #2d2d2d; border-color: #a678ef; color: #ffffff; border-width: 6px; height: 200px; overflow-y: auto; box-shadow: 4px 4px 0px black;">
+                
+                
+                
+                
+            <!-- TRIVIA -->
+                
+            <ul class="fa-ul mr-3">
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> Trivia note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> A longer trivia note can go here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> Trivia note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> Trivia note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> Trivia note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> Trivia note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-chevron-right"></i></span> Trivia note here.
+                    
+                </li>
+                
+            </ul>
+            
+            
+            
+            </div>
+        
+            <div class="card rounded-0 mt-3 pt-3 text-justify" style="background-color: #2d2d2d; border-color: #a678ef; color: #ffffff; border-width: 6px; height: 200px; overflow-y: auto; box-shadow: 4px 4px 0px black;">
+                
+                
+                
+            <!-- DESIGN NOTES -->
+                
+            <ul class="fa-ul mr-3">
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-pencil"></i></span> Design note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-pencil"></i></span> A longer design note can go here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-pencil"></i></span> Design note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-pencil"></i></span> Design note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-pencil"></i></span> Design note here.
+                    
+                </li>
+                
+                <li>
+                    
+                    <span class="fa-li"><i class="fat fa-pencil"></i></span> Design note here.
+                    
+                </li>
+                
+            </ul>
+            
+            
+            
+            </div>
+            
+        </div>
+        
+        <!-- IMAGE - replace URLHERE with the link to your image! -->
+        
+        <div class="card col-4 rounded-0 m-3 text-justify" style="background-color: #2d2d2d; border-color: #a678ef; color: #ffffff; border-width: 6px; max-height: 418px; overflow-y: auto; box-shadow: 4px 4px 0px black;
+        
+        background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/50154809_KZkYbBs1QOREMaR.png);
+        
+        background-size: 400px;
+        background-position: -80px 0px; 
+        
+        background-position: absolute;">
+            
+        </div>
+        
+    </div>
+    
+</div>
+
+</div>
+
+<!-- end of the code - thanks for using <3 -->
